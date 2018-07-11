@@ -1,0 +1,1 @@
+This is a script I wrote just as an excercise in ETL from some slightly messy CSV files and exploratory data analysis. The school data set is from kaggle and the crime set is from NYC public data. This is currently a work in progress but so far I've been looking into correlations between race, income and ENI.
